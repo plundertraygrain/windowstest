@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "2008"  
+      VERSION: "2012"  
      RAM_SIZE: "2G"
     CPU_CORES: "4"
     DISK_SIZE: "30G"
